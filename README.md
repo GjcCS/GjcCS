@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 #  Cybersecurity Specialist | Defender of the Digital Realm :shield:
-Hi there! Welcome to my GitHub profile! I'm [Your Name], a passionate **Cybersecurity Specialist** with a mission to protect, detect, and respond to threats in the ever-evolving digital landscape. With [X years] of experience in cybersecurity and a drive for continuous learning, I specialize in [mention key areas like threat analysis, network security, vulnerability assessment, etc.].
+Hi there! Welcome to my GitHub profile! I'm Guillermo Costa, a passionate **Cybersecurity Specialist** with a mission to protect, detect, and respond to threats in the ever-evolving digital landscape. With 1 year of experience in cybersecurity and a drive for continuous learning, I specialize in threat analysis, network security, vulnerability assessment, etc.
 ---
 ## :star2: My Expertise
 :lock: **Cyber Defense & Threat Hunting**
@@ -37,7 +37,6 @@ Here are some of the tools and technologies I use regularly:
 ---
 ## :mailbox: Connect With Me
 Let's collaborate or talk about security!
-- **Email:** [your-email@example.com]
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Website/Portfolio:** [Your Portfolio](https://your-portfolio.com)
+- **Email:** guillejch11@gmail.com
+- **LinkedIn:** www.linkedin.com/in/guillermo-costa-1b849222b
 Thanks for visiting! Don't forget to :star: my repos if you find them helpful! :smile:
