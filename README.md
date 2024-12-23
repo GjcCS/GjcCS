@@ -20,10 +20,8 @@ Here are some of the tools and technologies I use regularly:
 - **Platforms**: AWS, Azure, Linux (various distributions), Windows Server
 ---
 ## :mag: Featured Projects
-### [:file_folder: Project Name](https://github.com/your-profile/your-project-link)
-**Description:** Briefly explain the project. Highlight how it contributes to cybersecurity (e.g., a custom script to automate threat detection, a penetration testing toolkit, etc.).
-### [:file_folder: Project Name](https://github.com/your-profile/your-project-link)
-**Description:** Another project with a short and impactful description.
+### [:file_folder: Project Name] https://github.com/GjcCS/ciberseguridad_4geeks/tree/main/Comprehensive%20Analysis%20and%20Remediation%20of%20a%20Compromised%20Debian%20Server
+**Description:** Conducted an in-depth forensic analysis and remediation of a compromised Debian server as part of a cybersecurity project. Identified and mitigated exploited vulnerabilities, eradicated unauthorized access and malware, and implemented robust security measures to fortify the system against future attacks. Delivered a comprehensive security overhaul, ensuring compliance with best practices and significantly enhancing the server's resilience to threats.
 ---
 ## :rocket: Certifications & Achievements
 :shield: **Certified Ethical Hacker (CEH)**
