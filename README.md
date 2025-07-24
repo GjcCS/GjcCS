@@ -26,7 +26,7 @@ Here are some of the tools and technologies I use regularly:
 ## :rocket: Certifications & Achievements
 :shield: **Certified Ethical Hacker (CEH)**
 :mortar_board: **CompTIA Security+**
-:trophy: **[Add more relevant certifications]**
+:trophy:
 ---
 ## :sparkles: Fun Facts About Me
 - :sleuth_or_spy: I enjoy playing CTFs and hacking challenges in my free time.
