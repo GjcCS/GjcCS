@@ -24,8 +24,10 @@ Here are some of the tools and technologies I use regularly:
 **Description:** Conducted an in-depth forensic analysis and remediation of a compromised Debian server as part of a cybersecurity project. Identified and mitigated exploited vulnerabilities, eradicated unauthorized access and malware, and implemented robust security measures to fortify the system against future attacks. Delivered a comprehensive security overhaul, ensuring compliance with best practices and significantly enhancing the server's resilience to threats.
 ---
 ## :rocket: Certifications & Achievements
-:shield: **Certified Ethical Hacker (CEH)**
-:mortar_board: **CompTIA Security+**
+:shield: **Google Cloud Cybersecurity Certificate**
+:shield: **AWS Certified Cloud Practitioner**
+:shield: **CompTIA Security+**
+:shield: **Google Cybersecurity Professional Certificate V2**
 :trophy:
 ---
 ## :sparkles: Fun Facts About Me
