@@ -43,7 +43,7 @@ Here are some of the tools and technologies I use regularly:
 ---
 
 ## :sparkles: Fun Facts About Me
-- :sleuth_or_spy: I enjoy playing CTFs and hacking challenges in my free time.
+- 🕵️ I enjoy playing CTFs and hacking challenges in my free time.
 - :coffee: Coffee fuels my late-night bug hunts.
 - :video_game: Gamer by passion, defender by profession!
 ---
