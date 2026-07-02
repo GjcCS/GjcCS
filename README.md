@@ -25,7 +25,8 @@ Here are some of the tools and technologies I use regularly:
 ### [:file_folder: Project Name](https://github.com/GjcCS/ciberseguridad_4geeks/tree/main/Comprehensive%20Analysis%20and%20Remediation%20of%20a%20Compromised%20Debian%20Server)
 **Description:** Conducted an in-depth forensic analysis and remediation of a compromised Debian server as part of a cybersecurity project. Identified and mitigated exploited vulnerabilities, eradicated unauthorized access and malware, and implemented robust security measures to fortify the system against future attacks. Delivered a comprehensive security overhaul, ensuring compliance with best practices and significantly enhancing the server's resilience to threats.
 
-###[SOC Home Lab — MDE Threat Simulation](https://github.com/GjcCS/SOC-Lab-MDE-Threat-Simulation)
+### [:file_folder: Project Name] [SOC Home Lab — MDE Threat Simulation](https://github.com/GjcCS/SOC-Lab-MDE-Threat-Simulation)
+
 **Description:** Simulated Brute Force, Privilege Escalation, and Obfuscated PowerShell attacks on Azure. Detected and investigated using KQL in Microsoft Defender Advanced Hunting.
 
 ---
